@@ -6,5 +6,10 @@ namespace TaroStudio
         {
             InitializeComponent();
         }
+
+        private void TaroStudio_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }
